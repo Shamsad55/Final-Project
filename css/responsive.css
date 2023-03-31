@@ -1,0 +1,468 @@
+@media (min-width:992px) and (max-width:1199px){
+    main #banner .banner_slider h2 {
+        font-size: 59px;
+        line-height: 60px;
+    }
+    #banner .slick-dots {
+        left: 28px;
+    }
+    main #banner .row{
+        height: 400px;
+    }
+    main #banner .banner_slider{
+        height: 400px;
+        background-size: cover;
+        background-position: center;
+    }
+    #banner .slick-dots button{
+        width: 12px;
+        height: 6px;
+    }
+    #banner .slick-dots {
+        bottom: 5%;
+        left: 25px;
+    }
+    #New-Arrivals .sliderArrowLeft {
+        top: 264px;
+        left: 34px;
+    }
+    #New-Arrivals .sliderArrowRight {
+        top: 264px;
+        left: 915px;
+    }
+    #New-Arrivals .New-Arrivals-cards .new-Arrivals-cards-text h4 {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+   }
+   #New-Arrivals .New-Arrivals-cards .new-Arrivals-cards-img img {
+    height: 260px;
+   }
+   #New-Arrivals .New-Arrivals-cards .new-Arrivals-cards-img .New-Arrivals-Overly {
+    top: 26px;
+   }
+    #Best_Seller_pro .Best_Seller_container {
+        width: 195px;
+    }
+    #Best_Seller_pro .Best_Seller-cards .Best_Seller-cards-img img {
+        height: 250px;
+    }
+    #Deals .Timer {
+        right: 18%;
+    }
+    #Deals .wraper_slider .wraper_text h4 {
+        font-size: 27px;
+        line-height: 31px;
+    }
+    #Deals .wraper_slider .wraper_text p {
+        font-size: 15px;
+        margin: 16px 0;
+    }
+    .button3 {
+        padding: 14px 27px;
+    }
+    .button2 {
+        padding: 14px 27px;
+    }
+    .button {
+        padding: 14px 27px;
+    }
+    .wraper_slider .slick-dots {
+        left: 45%;
+    }
+    #Spa_Cosmetics {
+        margin: 50px 0;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-text {
+        padding: 49px 100px 49px 0;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-text h3 {
+        font-size: 30px;
+        line-height: 43px;
+        margin-bottom: 11px;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-text h5 {
+        font-size: 15px;
+        margin-bottom: 8px;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-vdo img {
+        height: 421px;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-text p {
+        font-size: 14px;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .SPECIAL-OFFER-overlay {
+        top: 41%;
+        left: 49%;
+    }
+    #Contacts .contact-overly .freeshipping .freeshipping_text h5 {
+        font-size: 17px;
+        line-height: 28px;
+    }
+    #Contacts .contact-overly .freeshipping .freeshipping_text p {
+        font-size: 11px;
+    }
+    #Contacts .contact-overly .freeshipping .freeshipping_text {
+        padding: 0px 0 0 18px;
+    }
+    #Contacts .contact-overly .freeshipping .freeshipping_img img {
+        width: 47px;
+        height: 47px;
+    }
+    #Contacts .contact-icons {
+        padding: 125px 0 49px 0;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_img {
+        height: 146px;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_img img {
+        height: 146px;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_text h4 {
+        font-size: 13px;
+        line-height: 17px;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_text p {
+        font-size: 12px;
+        line-height: 24px;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_text a {
+        font-size: 12px;
+        line-height: 28px;
+        margin-right: -76px;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_text span {
+        font-size: 12px;
+        margin-left: 104px;
+    }
+    #Contacts .contact-overly {
+        padding: 20px;
+        top: -8%;
+        right: 0;
+    }
+    #Contacts .contact-overly {
+        padding: 20px;
+        top: -8%;
+        right: 0;
+    }
+    #Contacts .contact-overly .freeshipping .freeshipping_text p {
+        font-size: 12px;
+    }
+    .Latest_News_slider .slick-dots {
+        left: 42%;
+    }
+    #Contacts .links h5 {
+        font-size: 20px;
+        line-height: 0px;
+        margin-bottom: 28px;
+    }
+    #Contacts .links ul li {
+        font-size: 10px;
+        line-height: 28px;
+    }
+    #Contacts .links .NewsLetter input[type="email"] {
+        height: 33px;
+        padding: 12px;
+        font-size: 12px;
+    }
+    #Contacts .links .NewsLetter button {
+        padding: 8px;
+        top: 87px;
+        right: -13px;
+        height: 33px;
+        font-size: 12px;
+        right: 5px;
+    }
+    #Contacts .All-Rights {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    #Contacts .contact-icons .social_icon ul li span {
+        padding: 6px;
+    }
+    #Contacts .contact-icons .social_logo img {
+        width: 115px;
+        height: 46px;
+    }
+    #Contacts .contact-icons .social_logo img {
+        width: 115px;
+        height: 46px;
+    }
+    #Contacts .links {
+        margin: 65px 0;
+    }
+    #Contacts {
+        margin: 3px 0 0 0;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px){
+    main #banner .banner_slider {
+        height: 500px;
+        background-size: cover;
+        background-position: center;
+    }
+    main #banner .row {
+        height: 500px;
+    }
+    main #banner .banner_slider h2 {
+        font-size: 43px;
+        line-height: 43px;
+    }
+ 
+    #banner .slick-dots {
+        bottom: 11%;
+        left: 29px;
+    }
+    .button {
+        padding: 14px 29px;
+    }
+    #New-Arrivals .New-Arrivals-cards .new-Arrivals-cards-img img{
+        height: 210px;
+    }
+    #New-Arrivals .New-Arrivals-cards .new-Arrivals-cards-img .New-Arrivals-Overly {
+        top: 10px;
+    }
+    #New-Arrivals .New-Arrivals-cards .new-Arrivals-cards-text h4 {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    #New-Arrivals .sliderArrowLeft {
+        width: 25px;
+        height: 45px;
+        top: 225px;
+        left: 42px;
+    }
+    #New-Arrivals .sliderArrowRight {
+        width: 25px;
+        height: 45px;
+        top: 225px;
+        left: 685px;
+    }
+    #Spa_Cosmetics {
+        margin: 45px 0;
+    }
+    #Spa_Cosmetics {
+        margin: 45px 0;
+        padding: 40px;
+    }
+    .button2 {
+        padding: 16px 16px;
+    }
+    .button3 {
+        padding: 16px 16px;
+    }
+    .button {
+        padding: 16px 16px;
+    }
+    #Best_Seller_pro .Best_Seller-cards .Best_Seller-cards-img img {
+        height: 210px;
+    }
+    #Best_Seller_pro .Best_Seller-cards .Best_Seller-cards-img .Best_Seller-Overly {
+        top: 10px;
+    }
+    #Deals .Timer {
+        right: 6%;
+    }
+    #Deals .wraper_slider .wraper_container {
+        padding: 21px 28px 90px 40px;
+    }
+    #Deals .wraper_slider .wraper_text p {
+        font-size: 12px;
+        line-height: 23px;
+        margin: 23px 0;
+    }
+    .wraper_slider .slick-dots {
+        left: 262px;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-text {
+        padding: 45px 100px 45px 0;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-text h3 {
+        font-size: 31px;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-text {
+        padding: 28px 51px 28px 0;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-vdo img {
+        height: 434px;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .SPECIAL-OFFER-overlay {
+        width: 90px;
+        height: 90px;
+        top: 41%;
+        left: 42%;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_img {
+        height: 158px;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_img img {
+        height: 158px;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_text h4 {
+        font-size: 19px;
+        line-height: 24px;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_text p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_text a {
+        font-size: 9px;
+        line-height: 28px;
+    }
+    #Latest_News .Latest_News_container .Latest_News_Card .Latest_News_Card_text span {
+        font-size: 9px;
+        line-height: 26px;
+        margin-left: 36px;
+    }
+    .Latest_News_slider .slick-dots {
+        left: 45%;
+    }
+    #Contacts .contact-overly {
+        padding: 18px;
+    }
+    #Contacts .contact-overly .freeshipping .freeshipping_img img {
+        width: 36px;
+        height: 36px;
+    }
+    #Contacts .contact-overly .freeshipping .freeshipping_text h5 {
+        font-size: 13px;
+    }
+    #Contacts .contact-overly .freeshipping .freeshipping_text p {
+        font-size: 8px;
+    }
+    #Contacts .contact-overly {
+        top: -4%;
+    }
+    #Contacts .contact-icons {
+        color: white;
+        padding: 90px 0 31px 0;
+    }
+    #Contacts .links .NewsLetter input[type="email"] {
+        width: 284px;
+    }
+    #Contacts .links .NewsLetter button {
+        top: 105px;
+        right: 327px;
+    }
+}
+
+@media (min-width:320px) and (max-width:767px){
+    main #banner .banner_slider {
+        height: 300px;
+        background-size: cover;
+        background-position: center;
+
+    }
+    main #banner .row {
+        height: 300px;
+    }
+    main #banner .banner_slider .banner_cnt {
+        width: 100%;
+    }
+    main #banner .banner_slider h2 {
+        line-height: 40px;
+        font-size: 38px;
+    }
+    main #banner .banner_slider p {
+       
+        line-height: 20px;
+        margin: 13px 0;
+    }
+    .button {
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+    #banner .slick-dots {
+        left: 6px;
+        bottom: 1%;
+    }
+    #banner .slick-dots li {
+        margin: -3px;
+    }
+    #banner .slick-dots button {
+     transform: scale(0.5);
+    }
+    #catagories .catagories-overly p {
+        font-size: 24px;
+    }
+    #catagories .catagories-overly a {
+        font-size: 13px;
+    }
+    #New-Arrivals h3 {
+        font-size: 24px;
+    }
+    #New-Arrivals .New-Arrivals-cards {
+        margin: 30px 0;
+    }
+    #New-Arrivals .New-Arrivals-cards .new-Arrivals-cards-img img{
+        height: 210px;
+    }
+    #Spa_Cosmetics {
+        margin: 35px 0;
+    }
+    #Best_Seller_pro h3 {
+        font-size: 24px;
+    }
+    #Deals h3 {
+        width: 100%;
+        font-size: 28px;
+    }
+    #Deals .Timer {
+        right: 7%;
+    }
+
+    #Deals .Timer ul li {
+        text-transform: capitalize;
+        display: inline-block;
+        width: 8px;
+        height: 26px;
+        font-family: var(--primaryfont);
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #444444;
+        margin: 0 45px;
+        position: relative;
+    }
+    #Deals .Timer ul li span {
+        width: 21px;
+        height: 34px;
+        font-family: var(--primaryfont);
+        font-weight: 700;
+        font-size: 21px;
+        line-height: 34px;
+        text-align: center;
+        color: #11161E;
+    }
+    #Deals .Timer ul li {
+        text-transform: capitalize;
+        display: inline-block;
+        width: 7px;
+        height: 26px;
+        font-family: var(--primaryfont);
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 26px;
+        text-align: center;
+        color: #444444;
+        margin: 0 27px;
+        position: relative;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-text h3 {
+        font-size: 30px;
+        line-height: 39px;
+        margin-bottom: 3px;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-text {
+        padding: 60px 22px 60px 0;
+    }
+    #SPECIAL-OFFER .Beauty-inspired .Beauty-inspired-text p {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 13px;
+    }
+
+}
